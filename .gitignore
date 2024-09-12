@@ -17,6 +17,9 @@ Key Manager(Z-City Times)/
 *.tga
 *.png
 *.tif
+*.psd
+*.fbx
+*.wav
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
