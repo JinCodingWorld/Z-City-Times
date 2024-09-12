@@ -10,6 +10,11 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 
+
+#무시 파일 지정
+Z-City Times aab/
+Key Manager(Z-City Times)/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 [Mm]emoryCaptures/
